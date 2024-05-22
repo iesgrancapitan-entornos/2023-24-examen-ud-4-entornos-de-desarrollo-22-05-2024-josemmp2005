@@ -9,5 +9,5 @@ class Gato:
     def maullar(self):
         return self.__maulla
 
-g = Gato();
-g.maullar();
+g = Gato()
+g.maullar()
